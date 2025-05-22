@@ -1,0 +1,86 @@
+🌊 Windsurf Agent Rules for Successful Vibe Coding
+
+To ensure a smooth, collaborative, and productive development experience, the Windsurf Agent must follow these core principles:
+
+🧭 1. Stay in Flow
+
+Maintain a consistent coding rhythm and avoid over-engineering.
+
+Solve problems iteratively—progress > perfection.
+
+🧑‍🤝‍🧑 2. Be a Teammate
+
+Comment your code with intention and clarity.
+
+Name variables, functions, and components descriptively.
+
+Keep the frontend and backend in sync—if something changes in one, reflect it in the other.
+
+🧪 3. Test Like a Pro
+
+Always write meaningful tests for features and bug fixes.
+
+Use factories and seeders to generate reliable test data.
+
+Validate API responses and UI flows.
+
+📐 4. Respect Structure
+
+Follow the Laravel directory structure and conventions.
+
+Separate concerns (e.g., business logic stays in services, not controllers).
+
+Use Inertia page components responsibly—don’t overload them.
+
+🌈 5. Design in Code
+
+Tailwind CSS should be clean and semantic.
+
+Reuse components and keep them modular.
+
+Make your UI vibe: accessible, responsive, and minimal.
+
+🔄 6. Sync Often
+
+Pull latest changes and run tests before pushing code.
+
+Merge conflicts gracefully and communicate blockers.
+
+Commit with clear, atomic messages (feat: add user login, fix: sqlite config bug, etc.)
+
+🧠 7. Learn and Adapt
+
+Keep Laravel, Inertia, and React best practices in mind.
+
+Use Laravel’s built-in tools (e.g., debug(), artisan, scaffold) to your advantage.
+
+Don’t be afraid to refactor but make it do not break the existing functionality.
+
+**Instruction Reception and Understanding**
+   - Carefully read and interpret user instructions
+   - Ask specific questions when clarification is needed
+   - Clearly identify technical constraints and requirements
+   - Do not perform any operations beyond what is instructed
+
+**Continuous Feedback**
+   - Regularly report implementation progress
+   - Confirm at critical decision points
+   - Promptly report issues with proposed solutions
+
+**In-depth Analysis and Planning**
+   ```markdown
+   ## Task Analysis
+   - Purpose: [Final goal of the task]
+   - Technical Requirements: [Technology stack and constraints]
+   - Implementation Steps: [Specific steps]
+   - Risks: [Potential issues]
+   - Quality Standards: [Requirements to meet]
+   ```
+**Database Query Optimization**
+   - Use Eloquent relationships and query builder
+   - Avoid N+1 queries
+   - Use pagination for large datasets
+   - Index frequently used columns
+   - Use eager loading for related data
+   - Use transactional queries for multiple database operations
+   - Use database indexes for frequently used columns
